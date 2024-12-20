@@ -1,0 +1,1 @@
+Repositorio desinado para poder aprender el lenguaje Rust. En este caso se uso Series de Taylor para poder generar funciones Coseno, Seno y Tangente. Esto no es nada nuevo, pero da una idea de como trabajar con herramientas matematicas al mismo tiempo que se desea aprender este nuevo lenguaje.
