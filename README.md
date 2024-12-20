@@ -1,16 +1,16 @@
 # Aprendiendo Rust con Series de Taylor
 
-Este repositorio está diseñado para ayudarte a aprender **Rust** mientras trabajas con conceptos matemáticos. En este caso, se utiliza la **Serie de Taylor** para generar funciones trigonométricas como **Coseno**, **Seno** y **Tangente**. Aunque estas funciones no son algo novedoso, el objetivo es demostrar cómo trabajar con herramientas matemáticas mientras te sumerges en este poderoso lenguaje de programación.
+En este repositorio trato de entender el lenguaje **Rust** por medio de conceptos matemáticos. En este caso, se utiliza la **Serie de Taylor** para generar funciones trigonométricas como **Coseno**, **Seno** y **Tangente**. Aunque estas funciones no son algo novedoso, el objetivo es demostrar cómo trabajar con herramientas matemáticas mientras se aprende este lenguaje de programación.
 
 ## Objetivos
 
 - **Aprender Rust** mientras implementas funciones matemáticas.
 - **Uso de la Serie de Taylor** para aproximar funciones matemáticas.
-- **Explorar Rust** en un entorno práctico que involucra cálculos científicos.
+- **Explorar Rust** en un entorno práctico para el area ingenieril.
 
 ## ¿Por qué Rust?
 
-Rust es un lenguaje de programación moderno y seguro que ha ganado popularidad en la comunidad de desarrolladores. Es ideal para aquellos que buscan una manera eficiente y segura de escribir código, especialmente en áreas que requieren alto rendimiento y confiabilidad.
+Rust es un lenguaje de programación moderno y seguro que ha ganado popularidad en la comunidad de desarrolladores. Es ideal para aquellos que buscan una manera eficiente y segura de escribir código, especialmente en áreas que requieren alto rendimiento y confiabilidad, esto comparandolo con lenguajes "tradicionales" como C y C++.
 
 ## Funciones Implementadas
 
